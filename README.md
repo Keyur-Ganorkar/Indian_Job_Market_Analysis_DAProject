@@ -55,6 +55,10 @@ The notebook reports that companies with 100 or more postings account for around
 
 ![Large vs smaller recruiters](assets/big_company_share.png)
 
+### Power BI Dashboard 
+Using the Dataset, created A Dashboard to show some insights.
+![Power_BI_Dashboard](assets/Dashboard_Basic.png)
+
 ## Hypothesis testing
 The notebook uses a 95% confidence level and `α = 0.05`.
 
